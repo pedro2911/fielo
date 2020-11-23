@@ -2,17 +2,17 @@
 This project is a simple code to obtain the routes with the highest weight in a matrix cell.
 
 #Prerequisites: 
-## Install node latest version
-## Github account
-## To have a browser
+ Install node latest version
+ Github account
+ To have a browser
 
 #How to run this project
-## Open your console
-## Go to path where you would like download the project
-## Create a dir with any name. Ex. Test
-## Execute git clone [URL PROJECT]
-## Execute npm i
-## Run npm start
+ Open your console
+ Go to path where you would like download the project
+ Create a dir with any name. Ex. Test
+ Execute git clone [URL PROJECT]
+ Execute npm i
+ Run npm start
 
 
 #Processo de criação da solução.
